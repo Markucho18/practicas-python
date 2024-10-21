@@ -1,0 +1,19 @@
+palabras = [
+  "perro",
+  "maquillaje",
+  "armagedon",
+  "sinestesia",
+  "sombrero",
+  "libreria",
+  "concreto",
+  "murcielago",
+  "vestido",
+  "departamento",
+  "escritorio",
+  "naturaleza",
+  "barroco",
+  "juguete",
+  "peluqueria",
+  "empleado",
+  "almirante"
+]
